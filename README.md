@@ -10,16 +10,17 @@
 
 ## 📥 1. How to Install ReShade
 
-To use this shader, you first need the ReShade injector.
+> [!IMPORTANT]
+> **Version Compatibility:** This project was developed and validated using **ReShade 6.6.2**.
+> While the code is likely compatible with other versions, performance metrics and shader behavior may vary.
 
-1.  Download the latest version of ReShade from [https://reshade.me](https://reshade.me).
-2.  Run the installer (`ReShade_Setup.exe`).
-3.  **Select a Game:** Click "Browse" and find the executable (`.exe`) of the game you want to stylize (e.g., `TheWitcher3.exe`).
-4.  **Select API:** Choose the rendering API the game uses (usually **DirectX 10/11/12** for modern games, or **Vulkan**).
-5.  **Select Effects:** You can skip the standard effect packages if you only want to use AHEAD, or install "Standard Effects" to mix it with other filters.
-6.  Finish the installation.
+To use this shader, you must first install the ReShade injector for your specific game.
+
+Please refer to **Marty's Mods Guide** for a detailed, step-by-step installation tutorial:
+👉 **[How to Install ReShade (Setup Tool)](https://guides.martysmods.com/reshade/installing/setuptool)**
 
 ---
+
 
 ## 🛠️ 2. Installing AHEAD
 
@@ -39,7 +40,7 @@ Once ReShade is installed for your game:
 
 ## 🖼️ Gallery
 
-Below are results demonstrating the AHEAD shader in various game engines.
+Below are results demonstrating the AHEAD shader in various game engines.(Click the image to get the full-res image)
 
 ### The Elder Scrolls V: Skyrim – Special Edition
 | | |
