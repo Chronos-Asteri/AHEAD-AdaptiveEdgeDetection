@@ -39,14 +39,27 @@ Once ReShade is installed for your game:
 
 ## 🖼️ Gallery
 
-Below are results demonstrating the AHEAD shader in various game engines. (Click the image to view the full-res version)
+Below are results demonstrating the AHEAD shader in various game engines.
 
+### The Elder Scrolls V: Skyrim – Special Edition
+| | |
 |:-------------------------:|:-------------------------:|
-| <img src="./Figures/Figure 2/Depth_Map.jpg" width="100%"/><br><b>Figure 1:</b> Comparison of Silhouette vs Texture layers.| <img src="./Figures/Figure 2/Normal_Map.jpg" width="100%"/><br><b>Figure 2:</b> Adaptive sensitivity in low-light scenes.|
-| <img src="./Figures/Figure 5/Combined Pass.jpg" width="100%"/><br><b>Figure 3:</b> Result in <i>The Witcher 3</i> (Forest).| <img src="./Figures/Figure 5/Original.jpg" width="100%"/><br><b>Figure 4:</b> Result in <i>Cyberpunk 2077</i> (City).|
-| <img src="./Figures/Figure 5/SilhouettePass_W1_4_849.jpg" width="100%"/><br><b>Figure 5:</b> Result in <i>The Walking Dead</i>.| <img src="./Figures/Figure 5/StructurePass_W2_1_000.jpg" width="100%"/><br><b>Figure 6:</b> Close-up on facial feature detection.|
+| <img src="./Figures/Figure 9/Skyrim1.jpg" width="100%"/> | <img src="./Figures/Figure 9/Skyrim2.jpg" width="100%"/> |
+| <img src="./Figures/Figure 9/Skyrim_Extra_1.jpg" width="100%"/> | <img src="./Figures/Figure 9/Skyrim_Extra_2.jpg" width="100%"/> |
+| <img src="./Figures/Figure 9/Skyrim_Extra_3.jpg" width="100%"/> | |
 
----
+
+### Cyberpunk 2077
+| | |
+|:-------------------------:|:-------------------------:|
+| <img src="./Figures/Figure 9/Cyberpunk2077_1.jpg" width="100%"/> | <img src="./Figures/Figure 9/Cyberpunk2077_2.jpg" width="100%"/> |
+
+### The Witcher 3: Wild Hunt
+| | |
+|:-------------------------:|:-------------------------:|
+| <img src="./Figures/Figure 9/Witcher3_1.jpg" width="100%"/> | <img src="./Figures/Figure 9/Witcher3_2.jpg" width="100%"/> |
+| <img src="./Figures/Figure 9/Witcher3_3.jpg" width="100%"/> | |
+
 
 ## 📄 Citation
 
