@@ -41,7 +41,6 @@ Once ReShade is installed for your game:
 
 Below are results demonstrating the AHEAD shader in various game engines. (Click the image to view the full-res version)
 
-| | |
 |:-------------------------:|:-------------------------:|
 | <img src="./Figures/Figure 2/Depth_Map.jpg" width="100%"/><br><b>Figure 1:</b> Comparison of Silhouette vs Texture layers.| <img src="./Figures/Figure 2/Normal_Map.jpg" width="100%"/><br><b>Figure 2:</b> Adaptive sensitivity in low-light scenes.|
 | <img src="./Figures/Figure 5/Combined Pass.jpg" width="100%"/><br><b>Figure 3:</b> Result in <i>The Witcher 3</i> (Forest).| <img src="./Figures/Figure 5/Original.jpg" width="100%"/><br><b>Figure 4:</b> Result in <i>Cyberpunk 2077</i> (City).|
