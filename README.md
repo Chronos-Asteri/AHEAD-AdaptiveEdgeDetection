@@ -17,7 +17,8 @@
 > [!WARNING]
 > **Z-Buffer & Engine Compatibility:** Please be aware that depending on the specific game engine, the Z-buffer (depth data) may or may not be exposed to the ReShade software. 
 > 
-> To ensure a consistent testing environment and verify that the shader is functioning correctly, **it is highly recommended to use the games shown in the examples** for your initial validation.
+> * **Recommendation:** To ensure a consistent testing environment and verify that the shader is functioning correctly, **it is highly recommended to use the games shown in the examples** for your initial validation.
+> * **Note on UE5:** Most recent **Unreal Engine 5 (UE5)** titles fully support depth buffer access, making them ideal candidates for testing this project.
 
 To use this shader, you must first install the ReShade injector for your specific game.
 
