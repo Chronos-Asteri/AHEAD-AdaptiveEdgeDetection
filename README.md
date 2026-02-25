@@ -1,10 +1,10 @@
-# AHEAD: Adaptive Hierarchical Edge Detection
+# Adaptive Hierarchical Edge Detection: Enhancing Real-Time Artistic Stylization in Computer Graphics
 
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](LICENSE)
 
 **AHEAD** (Adaptive Hierarchical Edge Detection) is a real-time artistic stylization shader for video games. It uses a novel three-layer hierarchy (Silhouette, Structure, Texture) and adaptive sensitivity to generate clean, stable, ink-style outlines that react dynamically to scene lighting and depth.
 
-> **Paper Title:** AHEAD: Adaptive Hierarchical Edge Detection for Real-Time Artistic Stylization
+> **Paper Title:** Adaptive Hierarchical Edge Detection: Enhancing Real-Time Artistic Stylization in Computer Graphics
 
 ---
 
@@ -33,7 +33,7 @@ Once ReShade is installed for your game:
 4.  Paste them into the game's shader directory. This is typically located at:
     * **Folder:** `[Game Directory]\reshade-shaders\Shaders\`
 5.  **Launch the Game.**
-6.  Press **Home** (or Pos1) to open the ReShade menu.
+6.  Press **Home** on your keyboard to open the ReShade menu.
 7.  Search for `CombinedHybridEdge` in the list and check the box to enable it.
 
 ---
@@ -64,13 +64,4 @@ Below are results demonstrating the AHEAD shader in various game engines.(Click 
 
 ## 📄 Citation
 
-If you use this code or method in your research, please cite our paper:
-
-```bibtex
-@misc{ahead2026,
-  title  = {AHEAD: Adaptive Hierarchical Edge Detection for Real-Time Artistic Stylization},
-  author = {M K Lino Roshaan},
-  year   = {2026},
-  note   = {GitHub repository},
-  url    = {[https://github.com/Chronos-Asteri/AHEAD-AdaptiveEdgeDetection](https://github.com/Chronos-Asteri/AHEAD-AdaptiveEdgeDetection)}
-}
+This repository contains the source code for the manuscript 'Adaptive Hierarchical Edge Detection: Enhancing Real-Time Artistic Stylization in Computer Graphics', currently under review at The Visual Computer. If you use this code, please cite the manuscript.
