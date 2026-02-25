@@ -8,17 +8,17 @@
 
 ---
 
-## 📥 1. How to Install ReShade
-
-> [!IMPORTANT]
-> **Version Compatibility:** This project was developed and validated using **ReShade 6.6.2**.
-> While the code is likely compatible with other versions, performance metrics and shader behavior may vary.
-
 > [!WARNING]
 > **Z-Buffer & Engine Compatibility:** Please be aware that depending on the specific game engine, the Z-buffer (depth data) may or may not be exposed to the ReShade software. 
 > 
 > * **Recommendation:** To ensure a consistent testing environment and verify that the shader is functioning correctly, **it is highly recommended to use the games shown in the examples** for your initial validation.
 > * **Note on UE5:** Most recent **Unreal Engine 5 (UE5)** titles fully support depth buffer access, making them ideal candidates for testing this project.
+
+## 📥 1. How to Install ReShade
+
+> [!IMPORTANT]
+> **Version Compatibility:** This project was developed and validated using **ReShade 6.6.2**.
+> While the code is likely compatible with other versions, performance metrics and shader behavior may vary.
 
 To use this shader, you must first install the ReShade injector for your specific game.
 
