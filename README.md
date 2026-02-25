@@ -14,6 +14,11 @@
 > **Version Compatibility:** This project was developed and validated using **ReShade 6.6.2**.
 > While the code is likely compatible with other versions, performance metrics and shader behavior may vary.
 
+> [!WARNING]
+> **Z-Buffer & Engine Compatibility:** Please be aware that depending on the specific game engine, the Z-buffer (depth data) may or may not be exposed to the ReShade software. 
+> 
+> To ensure a consistent testing environment and verify that the shader is functioning correctly, **it is highly recommended to use the games shown in the examples** for your initial validation.
+
 To use this shader, you must first install the ReShade injector for your specific game.
 
 Please refer to **Marty's Mods Guide** for a detailed, step-by-step installation tutorial:
