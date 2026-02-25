@@ -70,4 +70,15 @@ Below are results demonstrating the AHEAD shader in various game engines.(Click 
 
 ## 📄 Citation
 
-This repository contains the source code for the manuscript 'Adaptive Hierarchical Edge Detection: Enhancing Real-Time Artistic Stylization in Computer Graphics', currently under review at The Visual Computer. If you use this code, please cite the manuscript.
+This repository contains the official source code for the manuscript **"Adaptive Hierarchical Edge Detection: Enhancing Real-Time Artistic Stylization in Computer Graphics"**, currently under review at *The Visual Computer*. 
+
+If you use this code or find the method useful for your research, please cite the work as follows:
+
+```bibtex
+@article{MK2026AHEAD,
+  title={Adaptive Hierarchical Edge Detection: Enhancing Real-Time Artistic Stylization in Computer Graphics},
+  author={M. K., Lino Roshaan},
+  journal={The Visual Computer (Under Review)},
+  year={2026},
+  url={[https://github.com/Chronos-Asteri/AHEAD-AdaptiveEdgeDetection](https://github.com/Chronos-Asteri/AHEAD-AdaptiveEdgeDetection)}
+}
