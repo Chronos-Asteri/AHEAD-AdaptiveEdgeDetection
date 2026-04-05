@@ -78,7 +78,7 @@ If you use this code or find the method useful for your research, please cite th
 @article{MK2026AHEAD,
   title={Adaptive Hierarchical Edge Detection: Enhancing Real-Time Artistic Stylization in Computer Graphics},
   author={M. K., Lino Roshaan},
-  journal={The Visual Computer (Under Review)},
+  doi={https://doi.org/10.21203/rs.3.rs-8849147/v2},
   year={2026},
   url={[https://github.com/Chronos-Asteri/AHEAD-AdaptiveEdgeDetection](https://github.com/Chronos-Asteri/AHEAD-AdaptiveEdgeDetection)}
 }
