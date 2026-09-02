@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](LICENSE)
 
 **AHEAD** (Adaptive Hierarchical Edge Detection) is a real-time artistic stylization shader for video games. It uses a novel three-layer hierarchy (Silhouette, Structure, Texture) and adaptive sensitivity to generate clean, stable, ink-style outlines that react dynamically to scene lighting and depth.
+#### DOI : https://dx.doi.org/10.21203/rs.3.rs-8849147/v2
 
 > **Paper Title:** Adaptive Hierarchical Edge Detection: Enhancing Real-Time Artistic Stylization in Computer Graphics
 
@@ -70,7 +71,7 @@ Below are results demonstrating the AHEAD shader in various game engines.(Click 
 
 ## 📄 Citation
 
-This repository contains the official source code for the manuscript **"Adaptive Hierarchical Edge Detection: Enhancing Real-Time Artistic Stylization in Computer Graphics"**, currently under review at *The Visual Computer*. 
+This repository contains the official source code for the manuscript **"Adaptive Hierarchical Edge Detection: Enhancing Real-Time Artistic Stylization in Computer Graphics"**
 
 If you use this code or find the method useful for your research, please cite the work as follows:
 
